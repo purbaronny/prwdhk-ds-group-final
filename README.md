@@ -319,3 +319,7 @@ Model ini dapat diimplementasikan sebagai berikut:
 - **Data Statis:** Model dilatih pada data dari periode waktu tertentu. Kinerjanya mungkin menurun seiring waktu karena perubahan kondisi ekonomi atau perilaku konsumen.
 - **Trade-off Recall vs. Precision:** Fokus pada **Recall** akan meningkatkan jumlah *False Positives*, yang berarti tim marketing mungkin masih akan menghubungi beberapa nasabah yang tidak tertarik.
 - **Generalisasi Geografis:** Model ini dilatih pada data dari Portugal. Kinerjanya mungkin tidak sama jika diterapkan di negara lain dengan kondisi pasar dan budaya yang berbeda.
+
+Link Dashboard Tableau:
+Untuk melihat Dashboard Tableau yang telah kami buat, silahkan mengakses linknya dibawah ini
+https://public.tableau.com/app/profile/ronny.purba/viz/Book3_17540464879420/Dashboard1?publish=yes
